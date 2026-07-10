@@ -1,0 +1,50 @@
+site_name: "'s Badische Schullädle – Jufi-Portal"
+site_description: "Arbeitsaufträge und Prozesse der Juniorenfirma"
+site_url: "https://ocin-ai.github.io/jufi-portal/"
+
+# file://-taugliche Links (Vorschau ohne Server) + robustes Hosting
+use_directory_urls: false
+
+theme:
+  name: material
+  language: de
+  # Keine Google Fonts -> DSGVO-freundlich, keine externen Requests
+  font: false
+  palette:
+    - scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Dunkelmodus
+    - scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Hellmodus
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - toc.integrate
+
+plugins:
+  - search:
+      lang: de
+  - awesome-pages
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: false
+
+extra:
+  generator: false

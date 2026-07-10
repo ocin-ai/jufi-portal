@@ -1,0 +1,4 @@
+site/
+.secrets/
+.DS_Store
+__pycache__/
