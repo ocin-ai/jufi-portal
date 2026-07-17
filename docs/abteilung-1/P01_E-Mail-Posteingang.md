@@ -1,6 +1,6 @@
 # Prozess 01: E-Mail-Posteingang verwalten
 
-> Abteilung 1 Sekretariat / Personal · Status: Entwurf · zuletzt bearbeitet: 2026-07-07
+> Abteilung 1 Sekretariat / Personal · Status: überarbeitet (Diktat 2026-07-17) · zuletzt bearbeitet: 2026-07-17
 
 ## Steckbrief
 
@@ -8,8 +8,8 @@
 | --- | --- |
 | **Prozess-Nr.** | 1 |
 | **Verantwortlich** | → [Übersicht](00_Uebersicht-Prozesse-Verantwortlichkeiten.md) |
-| **Turnus** | wöchentlich [Tag tbd.] |
-| **Schnittstellen** | [tbd.] |
+| **Turnus** | zweimal pro Woche |
+| **Schnittstellen** | Lehrkräfte (entscheiden über die weitere Bearbeitung) |
 
 ## Ziel / Kurzbeschreibung
 
@@ -23,9 +23,11 @@ Verwaltung des E-Mail-Posteingangs der Juniorenfirma („'s Badische Schullädle
 
 ## Prozessschritte
 
-- [ ] Posteingang sichten. [tbd. – per Diktat: Server/Zugang, wie oft, was wird beantwortet/weitergeleitet, Ablage von Mails]
+- [ ] Zweimal pro Woche in das E-Mail-Postfach schauen (Zugang: siehe Zugangsdaten-Dokument).
+- [ ] Den Lehrkräften Bescheid geben, ob neue E-Mails im Postfach sind.
+- [ ] Die Lehrkräfte entscheiden, was zu tun ist (Beantwortung/Weiterleitung liegt nicht bei den Mitarbeitenden).
+- [ ] **Wichtig:** E-Mails weder als gelesen markieren noch löschen.
 
 ## Offene Punkte / tbd.
 
 - Serverdetails bewusst offen (nicht Belwü); Zugang nur über Zugangsdaten-Dokument.
-- Bearbeitungsregeln per Diktat erfassen.

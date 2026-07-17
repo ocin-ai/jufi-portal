@@ -6,7 +6,7 @@ Verantwortlich für den Inhalt:
 
 Fachlehrer Juniorenfirma
 Walter-Eucken-Schule Karlsruhe
-Ernst-Frey-Straße 2, 76135 Karlsruhe
+Ernst-Frey-Straße 10, 76135 Karlsruhe
 Kontakt: badischesschullaedle@wes.karlsruhe.de
 
 Dieses Portal ist ein unterrichtliches Angebot der Juniorenfirma „'s Badische Schullädle" (Berufskolleg II).
