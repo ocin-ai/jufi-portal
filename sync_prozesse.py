@@ -44,8 +44,25 @@ def blocked(name: str) -> bool:
     return any(re.search(p, name, re.IGNORECASE) for p in BLOCKLIST)
 
 
+def sync_regeln(warnings: list[str]) -> None:
+    """Prozesse/00_Regeln-Mitarbeitende.md -> docs/regeln.md (SuS-Regelwerk)."""
+    src = ROOT / "Prozesse" / "00_Regeln-Mitarbeitende.md"
+    if not src.is_file():
+        warnings.append("00_Regeln-Mitarbeitende.md fehlt in Prozesse/ – docs/regeln.md nicht aktualisiert")
+        return
+    text = src.read_text(encoding="utf-8")
+    # Entwurfs-/Status-Zeile nicht veroeffentlichen
+    text = re.sub(r"^> Status: .*\n", "", text, flags=re.MULTILINE)
+    for pattern, label in CONTENT_WARN:
+        if re.search(pattern, text):
+            warnings.append(f"00_Regeln-Mitarbeitende.md: {label}")
+    (DOCS / "regeln.md").write_text(text, encoding="utf-8")
+    print("  kopiert:   00_Regeln-Mitarbeitende.md -> regeln.md")
+
+
 def main() -> int:
     warnings: list[str] = []
+    sync_regeln(warnings)
     for src_name, (dst_name, title) in MAPPING.items():
         src = ROOT / "Prozesse" / src_name
         dst = DOCS / dst_name
@@ -72,6 +89,8 @@ def main() -> int:
                 r"\1 *(interne Datei, nicht im Portal)*",
                 text,
             )
+            # Verweis auf das zentrale Regelwerk -> Portalseite regeln.md
+            text = text.replace("../00_Regeln-Mitarbeitende.md", "../regeln.md")
             for pattern, label in CONTENT_WARN:
                 if re.search(pattern, text):
                     warnings.append(f"{src_name}/{f.name}: {label}")
