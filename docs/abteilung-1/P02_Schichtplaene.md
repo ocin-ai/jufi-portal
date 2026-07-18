@@ -19,7 +19,8 @@ Erstellung und Veröffentlichung des Schichtplans für den Kiosk (inklusive Paus
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Schichtplan (Excel, je Phase) | 25-26_02_Schichtplan_JJJJ-MM-TT | `Ablage_1_Sekretariat-Personal/02_Schichtplaene/` |
+| Schichtplan-Vorlage (WES: 6 Gruppenblöcke, SL-Datum, Kasse-Markierung – erstellt 2026-07-18) | 26-27_02_Schichtplan_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/02_Schichtplaene/` |
+| Schichtplan (je Phase, aus Vorlage) | 26-27_02_Schichtplan_JJJJ-MM-TT | `Ablage_1_Sekretariat-Personal/02_Schichtplaene/` |
 | Event-Schichtplan (Sonderveranstaltung) | 25-26_02_Schichtplan-[Event]_JJJJ-MM-TT | `Ablage_1_Sekretariat-Personal/02_Schichtplaene/` |
 | Checkliste | 25-26_02_Schichtplan-Checkliste | [tbd. – auffinden] |
 | Vorjahres-Beispiele (⚠ enthalten echte Namen – nie veröffentlichen/weiterverwenden) | – | `Input/Sekretariat/25-26-Schichtplan_1.xlsx` · `…/Schichtpläne für Sonderveranstaltungen.xlsx` |
