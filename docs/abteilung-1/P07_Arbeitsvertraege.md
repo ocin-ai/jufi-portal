@@ -1,6 +1,6 @@
 # Prozess 07: Arbeitsverträge
 
-> Abteilung 1 Sekretariat / Personal · Status: Entwurf · zuletzt bearbeitet: 2026-07-07
+> Abteilung 1 Sekretariat / Personal · Status: überarbeitet (Diktat 2026-07-18) · zuletzt bearbeitet: 2026-07-18
 
 ## Steckbrief
 
@@ -19,15 +19,16 @@ Erstellung, Ausgabe und Archivierung der Arbeitsverträge für alle SuS der Juni
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Vertragsvorlage | 25-26_07_Arbeitsvertrag_VORLAGE_v1 | [tbd. – Ablage-Ordner folgt] |
+| Vertragsvorlage (WES-Design, Schuljahr 26/27) | 26-27_07_Arbeitsvertrag_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/07_Arbeitsvertraege/` |
+| Vorjahresfassung 25/26 (⚠ enthält echten Schülernamen in der Unterschriftszeile) | – | `Input/Sekretariat/25-26_Arbeitsvertrag fertig.docx` |
 
 ## Prozessschritte
 
-- [ ] Arbeitsverträge für alle SuS erstellen (Vorlage; keine echten Namen in der Vorlage, nur Platzhalter).
-- [ ] Ausgabe der Arbeitsverträge zur Unterschrift.
-- [ ] Archivierung der unterschriebenen Verträge. [tbd. – wo? Papier/digital? Datenschutz beachten]
+- [ ] Zu Schuljahresbeginn: Das Sekretariat fertigt die Arbeitsverträge für alle SuS aus der Vorlage aus (keine echten Namen in der Vorlage, nur Platzhalter).
+- [ ] Ausgabe zur Unterschrift: Es unterschreiben Mitarbeiter(in), Erziehungsberechtigte(r) und **seitens der Firma die Lehrkraft** (entspricht der Geschäftsleitung).
+- [ ] Archivierung der unterschriebenen Verträge: **Papier, vertraulich** – analog Personalakten (vgl. [P11](P11_Personalverwaltung.md)).
+- [ ] Jährlich: Vorlage mit den neuen Eckdaten aktualisieren (Laufzeit = erster/letzter Schultag laut Terminplan P04).
 
 ## Offene Punkte / tbd.
 
 - Checkliste existiert laut Aufgabenliste („ja") – auffinden/übernehmen.
-- Wer unterschreibt seitens Jufi/Schule? [tbd.]

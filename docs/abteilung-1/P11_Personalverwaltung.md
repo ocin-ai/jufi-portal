@@ -1,6 +1,6 @@
 # Prozess 11: Personalverwaltung
 
-> Abteilung 1 Sekretariat / Personal · Status: Entwurf · zuletzt bearbeitet: 2026-07-07
+> Abteilung 1 Sekretariat / Personal · Status: überarbeitet (Diktat 2026-07-18, bewusst schlank) · zuletzt bearbeitet: 2026-07-18
 
 ## Steckbrief
 
@@ -8,36 +8,37 @@
 | --- | --- |
 | **Prozess-Nr.** | 11 |
 | **Verantwortlich** | → [Übersicht](00_Uebersicht-Prozesse-Verantwortlichkeiten.md) |
-| **Turnus** | laufend |
-| **Schnittstellen** | alle SuS · Geschäftsleitung · Lehrkraft |
+| **Turnus** | anlassbezogen |
+| **Schnittstellen** | alle SuS · Lehrkräfte · Abteilung 2.1 (Einkaufsfahrten) |
 
 ## Ziel / Kurzbeschreibung
 
-Laufende Personalverwaltung der Juniorenfirma: Personalakten, Anwesenheiten, Zusatzstunden, Mitarbeitergespräche und Anerkennung.
+Schlanke Personalverwaltung der Juniorenfirma. Aktiv sind derzeit nur die Verwaltung der Einkaufsfahrten-Formulare und die Zusatzstunden-Übersicht; alles Weitere ist bewusst ruhend gestellt (Entscheidung 2026-07-18).
 
 ## Relevante Dateien
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Anwesenheitsübersicht | 25-26_11_Anwesenheit | [tbd. – Ablage-Ordner folgt] |
-| Zusatzstunden-Übersicht | 25-26_11_Zusatzstunden | [tbd.] |
+| Zusatzstunden-Übersicht | 25-26_11_Zusatzstunden | `Ablage_1_Sekretariat-Personal/11_Personalverwaltung/` |
+| Einkaufsfahrten-Formulare (Vorlagen) | – | `Input/1/` (Einverständnis U18 · Fahrer-Regelung) |
 
-## Prozessschritte
+## Prozessschritte (aktiv)
 
-### Personalakten
+### Einkaufsfahrten-Formulare (Zuordnung 2026-07-17)
 
-- [ ] „Personalakten" führen (keine echten Namen in Vorlagen/Beispielen; Datenschutz). [tbd. – Inhalt/Umfang]
+- [ ] **Einverständniserklärung U18** (Erziehungsberechtigte, gilt fürs ganze Schuljahr) zu Schuljahresbeginn an minderjährige SuS austeilen, unterschrieben einsammeln und vertraulich ablegen (Papier).
+- [ ] **Fahrer-Regelung** (Versicherung/Haftung/Kilometerpauschale 1,00 €/km) an fahrende SuS aushändigen, Kenntnisnahme dokumentieren.
+- Fachlicher Bezug: Einkaufsfahrten = Prozess 03 der Abteilung 2.1.
 
-### Anwesenheit und Zusatzstunden
+### Zusatzstunden
 
-- [ ] Erfassung der Anwesenheiten in den Jufi-Stunden (**nochmals im GL-Team besprechen**).
-- [ ] „Zusatzstunden-Übersichten" führen (Anwesenheit bei Sonderveranstaltungen, Übernahme von Sonderaufgaben).
+- [ ] Zusatzstunden-Übersicht führen (Anwesenheit bei Sonderveranstaltungen, Übernahme von Sonderaufgaben) – als Anerkennungs- und ggf. Bewertungsgrundlage.
 
-### Gespräche und Anerkennung
+## Ruhend / kein aktiver Prozess (Entscheidung 2026-07-18)
 
-- [ ] Mitarbeitergespräche führen. [tbd. – Anlass, Leitfaden]
-- [ ] Evtl. „Mitarbeiter/Schicht des Monats". [tbd. – Entscheidung offen]
+- **Personalakten:** vorerst kein aktiver Prozess.
+- **Anwesenheitserfassung:** läuft über **Untis** (schulisches System) – kein Jufi-Prozess, kein To-do.
+- **Mitarbeitergespräche:** kein aktiver Prozess.
+- **„Mitarbeiter/Schicht des Monats":** kein aktiver Prozess.
 
-## Offene Punkte / tbd.
-
-- Anwesenheitserfassung: Klärung im GL-Team steht aus (Quelle: Aufgabenliste).
+> Die ruhenden Punkte bleiben hier dokumentiert und können bei Bedarf reaktiviert werden. Mögliche spätere Erweiterung (vgl. Bildungsplan-Mapping, Lücke „Personalstatistik"): Kennzahlen auf Basis der Zusatzstunden-/Untis-Daten.

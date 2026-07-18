@@ -23,4 +23,4 @@ Durchführung der Innenrevision in Zusammenarbeit mit 3.2 Kasse und 4.1 Buchhalt
 
 ## Offene Punkte / tbd.
 
-- Stillgelegt am 2026-07-07; Reaktivierung offen.
+- Stillgelegt am 2026-07-07; **Stillegung bestätigt 2026-07-18** (Kassen-/Bestandsprüfung ist über P07 Inventur der Abteilung 2.1 und die Zählformulare der Kasse teilweise abgedeckt; Reaktivierung bei Bedarf).

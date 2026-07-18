@@ -1,6 +1,6 @@
 # Prozess 10: Betriebsrat
 
-> Abteilung 1 Sekretariat / Personal · Status: Entwurf (aus Themenspeicher übertragen) · zuletzt bearbeitet: 2026-07-07
+> Abteilung 1 Sekretariat / Personal · Status: überarbeitet (Diktat 2026-07-18) · zuletzt bearbeitet: 2026-07-18
 
 ## Steckbrief
 
@@ -8,47 +8,42 @@
 | --- | --- |
 | **Prozess-Nr.** | 10 |
 | **Verantwortlich** | → [Übersicht](00_Uebersicht-Prozesse-Verantwortlichkeiten.md) |
-| **Turnus** | Projekt, einmal pro Schuljahr (Wahl zu Beginn?) [tbd.] |
-| **Schnittstellen** | alle SuS (Wahl) · Lehrkraft [tbd.] |
+| **Turnus** | jährlich: Unterrichtsbaustein + Wahl zu Schuljahresbeginn |
+| **Schnittstellen** | alle SuS (Wahl) · Lehrkräfte · Geschäftsleitung |
 
 ## Ziel / Kurzbeschreibung
 
-Einführung und Wahl eines Betriebsrats in der Juniorenfirma: Die SuS erarbeiten die fachlichen Grundlagen (Aufgaben, Rechte, Pflichten nach Betriebsverfassungsgesetz), gestalten den Betriebsrat für die Jufi aus und führen die Wahl durch.
+Jährliche Einführung und Wahl des Betriebsrats: Die SuS erarbeiten die Grundlagen (BetrVG), präsentieren sie der Klasse und führen anschließend die Wahl durch. **Größe: 3 Mitglieder** – analog § 9 BetrVG (Betriebe mit 21–50 wahlberechtigten Arbeitnehmern) bei ~30 Mitarbeitenden.
 
 ## Relevante Dateien
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Handout Betriebsrat | 25-26_10_Betriebsrat-Handout | [tbd. – Ablage-Ordner folgt] |
-| Checkliste Wahl | 25-26_10_Betriebsrat-Checkliste-Wahl | [tbd.] |
-| Präsentation | 25-26_10_Betriebsrat-Praesentation | [tbd.] |
+| Präsentations-Vorlage (WES) | 26-27_10_Betriebsrat-Praesentation_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/10_Betriebsrat/` |
+| SuS-Infoblatt (WES; BetrVG-Grundlagen, Wahl, Jufi-Umsetzung) | 26-27_10_Betriebsrat-Infoblatt_v1 | `Ablage_1_Sekretariat-Personal/10_Betriebsrat/` |
+| Checkliste Wahl | 25-26_10_Betriebsrat-Checkliste-Wahl | [tbd. – bei Bedarf erstellen] |
+| Vorjahres-Material (Stichpunkte, SuS-Präsentation 25/26, Prozess-Notiz) | – | `Input/Sekretariat/Betriebsrat *.docx` · `…/Präsentation 2.pptx` |
 
 ## Prozessschritte
 
-### Recherche
+### Unterrichtsbaustein (jährlich zu Schuljahresbeginn)
 
-- [ ] Was ist ein Betriebsrat? Aufgaben, Rechte, Pflichten (Grundlage: Schulbuch, online, Betriebsverfassungsgesetz).
+- [ ] Grundlagen erarbeiten: Was ist ein Betriebsrat? Aufgaben, Rechte, Wahl (BetrVG); Präsentations-Vorlage nutzen und ggf. ergänzen.
+- [ ] Präsentation vor der Klasse (nach Abstimmung mit der Lehrkraft).
 
-### Strukturierung
+### Wahl
 
-- [ ] Wesentliche Inhalte und Fragen zusammenstellen.
-- [ ] Ausgestaltung bezogen auf die Jufi klären: Anzahl der Mitglieder, … [tbd.]
-- [ ] Ablauf der Wahl festlegen (Wählerliste, geheime Wahl, …).
+- [ ] Wahl vorbereiten: Kandidaturen sammeln; geheime Wahl organisieren (in der Jufi sind auch SuS unter 18 wählbar).
+- [ ] Wahl durchführen: **3 Mitglieder** wählen; Ergebnis dokumentieren und ablegen.
 
-### Präsentation
+### Laufende Arbeit des Betriebsrats (Soll)
 
-- [ ] Präsentation der wesentlichen Inhalte vor den SuS; davor Abstimmung mit der Lehrkraft.
+- [ ] Erste Anlaufstelle bei Problemen und Konflikten (auch gegenüber der Geschäftsleitung).
+- [ ] Beteiligung bei Personalthemen; Anliegen der Mitarbeitenden aufnehmen und einbringen (z. B. im Jour Fixe).
 
-### Handout
-
-- [ ] 1–2 Seiten mit den wichtigsten Inhalten zum Thema Betriebsrat – allgemein, nicht auf die Jufi bezogen (Orientierung am Schulbuch bzw. online, Verweis auf das Betriebsverfassungsgesetz). Schaubild prüfen. [tbd.]
-
-### Wahl und Dokumentation
-
-- [ ] Checkliste erstellen: Was ist bei der Wahl eines Betriebsrats zu beachten?
-- [ ] Durchführung der Wahl.
-- [ ] Ablage der erstellten Dokumente.
+> Hinweis (Stand 2026-07-18): Die festen Aufgaben sind so gewollt, **an der Umsetzung im Alltag hapert es bisher** – Aktivierung des gewählten Betriebsrats ist ein offener Verbesserungspunkt.
 
 ## Offene Punkte / tbd.
 
-- Inhalte stammen aus dem Themenspeicher 23/24 – per Diktat zu präzisieren: Zeitpunkt im Schuljahr, Anzahl Mitglieder, Rolle des Betriebsrats im laufenden Jufi-Betrieb (regelmäßige Sitzungen?).
+- Laufende Betriebsratsarbeit aktivieren (konkrete Anlässe/Routinen definieren, z. B. fester Punkt im Jour Fixe).
+- Handout und Wahl-Checkliste bei Bedarf erstellen.

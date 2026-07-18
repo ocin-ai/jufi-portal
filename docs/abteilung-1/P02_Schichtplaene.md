@@ -47,5 +47,5 @@ Erstellung und Veröffentlichung des Schichtplans für den Kiosk (inklusive Paus
 
 ## Offene Punkte / tbd.
 
-- Ferienphasen BW recherchieren und Phasen-Zeiträume festlegen (vertagt, Nutzer-Hinweis 2026-07-17).
+- ~~Ferienphasen recherchieren~~ – erledigt 2026-07-17 aus dem Schulkalender BW 26/27 (Kalenderpedia, ohne Gewähr). **Schuljahresphasen 2026/27** (= Schichtplan-Zeiträume): Phase 1: 14.09.–23.10.2026 · Phase 2: 02.11.–22.12.2026 · Phase 3: 11.01.–24.03.2027 · Phase 4: 05.04.–14.05.2027 (Chr. Himmelfahrt 06.05. schulfrei) · Phase 5: 31.05.–28.07.2027. Auch im Terminplan (P04) hinterlegt.
 - Checkliste existiert laut Aufgabenliste („Ja") – auffinden/übernehmen.

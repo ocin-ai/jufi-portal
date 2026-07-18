@@ -19,9 +19,9 @@
 | P10 | [Betriebsrat](P10_Betriebsrat.md) | Projekt | Entwurf |
 | P11 | [Personalverwaltung](P11_Personalverwaltung.md) | laufend | Entwurf |
 | P12 | [Organigramm erstellen/pflegen](P12_Organigramm.md) | Schuljahresbeginn + Änderungen | Entwurf |
-| P13 | [Innenrevision](P13_Innenrevision.md) | ruht | **stillgelegt** |
-| P14 | [Arbeitsaufträge nachhalten](P14_Arbeitsauftraege-nachhalten.md) | ruht | **stillgelegt** |
-| P15 | [Kommunikation](P15_Kommunikation.md) | ruht | **stillgelegt** (Kanal offen) |
+| P13 | [Innenrevision](P13_Innenrevision.md) | ruht | **stillgelegt** (bestätigt 2026-07-18) |
+| P14 | [Arbeitsaufträge nachhalten](P14_Arbeitsauftraege-nachhalten.md) | wöchentlich ab KW 38 | **stillgelegt als SuS-Prozess** – macht die Lehrkraft direkt |
+| P15 | [Kommunikation](P15_Kommunikation.md) | laufend | **aktiv** (reaktiviert 2026-07-18: Portal + Sdui) |
 
 ## Ablage
 
