@@ -19,7 +19,7 @@ Einführung neuer Artikel und Elimination von Bestandsartikeln.
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Produktmanagement (Doku, Word) | 25-26_15_Produktmanagement | Ablage_2.1_Wareneinkauf-Lager/15_Produktmanagement/ |
+| Produktmanagement-Liste (Excel: Ideen, Typ, Entscheidung – erstellt 2026-07-18) | 25-26_15_Produktmanagement | Ablage_2.1_Wareneinkauf-Lager/15_Produktmanagement/ |
 
 ## Prozessschritte
 
@@ -38,7 +38,7 @@ Einführung neuer Artikel und Elimination von Bestandsartikeln.
 - [ ] Einleitung der Schritte zur Elimination aus dem Bestand (Info an SumUp-Team, Team Inventar).
 - [ ] Organisation Abverkauf (Angebot, ...).
 
-**→ Sämtliche Vorgänge sind in Word zu dokumentieren und anhand der Vorgaben (vgl. Dateimanagement in [00_Allgemeine-Hinweise](00_Allgemeine-Hinweise.md)) zu speichern.**
+**→ Sämtliche Vorgänge sind digital zu dokumentieren – zentral in der Produktmanagement-Liste (Excel), ausführlichere Begründungen bei Bedarf als Word-Dokument daneben – und anhand der Vorgaben (vgl. Dateimanagement in [00_Allgemeine-Hinweise](00_Allgemeine-Hinweise.md)) zu speichern.**
 
 ## Offene Punkte / tbd.
 

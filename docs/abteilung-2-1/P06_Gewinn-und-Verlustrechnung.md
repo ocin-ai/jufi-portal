@@ -38,4 +38,4 @@ Ziel ist es, eine Orientierungsgröße für den Beitrag einzelner Artikel zum Ge
 
 ## Offene Punkte / tbd.
 
-- Methode zur Ermittlung der Fahrtkostenpauschale wird gemeinsam mit [P14 Preiskalkulation](P14_Preiskalkulation.md) festgelegt (didaktisch-fachliche Entscheidung).
+- ~~Methode Fahrtkostenpauschale~~ – entschieden 2026-07-17: Prozent-Zuschlag wie [P14](P14_Preiskalkulation.md) (Parameterzelle 10 % in der GuV-Excel). Hintergrund: Die real gezahlte Kilometerpauschale beträgt 1,00 €/km (Fahrer-Regelung, Verwaltung über Abt. 1 P11) – der Zuschlagssatz kann daran später kalibriert werden.

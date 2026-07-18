@@ -35,4 +35,4 @@ Sicherstellung, dass das Jufi-Handy jederzeit verfügbar und einsatzbereit ist.
 ## Offene Punkte / tbd.
 
 - Ablageort des Handys wird in 00_Logins *(interne Datei, nicht im Portal)* (Feld „Ablageort") gepflegt.
-- Hotspot ist hier kanonisch beschrieben; die Dopplung in [P18](P18_Verwaltung-SumUp.md) wird bei dessen Überarbeitung durch einen Verweis ersetzt.
+- ~~Dopplung in P18~~ – erledigt: [P18](P18_Verwaltung-SumUp.md) verweist auf die kanonische Hotspot-Beschreibung hier.

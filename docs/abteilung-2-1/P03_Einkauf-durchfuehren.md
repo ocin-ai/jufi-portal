@@ -20,7 +20,7 @@ Durchführung der Einkäufe auf Basis der Vorgaben (Einkaufsliste und Zeitvorgab
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
 | Einkaufsliste | vgl. [P01](P01_Einkaufsliste-erstellen.md) | vgl. P01 |
-| Abrechnung Einkaufsfahrten (Vorlage) | 25-26_03_Abrechnungsbogen-Einkaufsfahrten_VORLAGE | Ablage_2.1_Wareneinkauf-Lager/03_Einkauf-durchfuehren/ |
+| Abrechnung Einkaufsfahrten (Vorlage, WES, Satz 1,00 €/km – erstellt 2026-07-18) | 25-26_03_Abrechnungsbogen-Einkaufsfahrten_VORLAGE_v1 | Ablage_2.1_Wareneinkauf-Lager/03_Einkauf-durchfuehren/ |
 | Einverständniserklärung U18 + Fahrer-Regelung (km-Pauschale 1,00 €) | Verwaltung durch Abteilung 1, Prozess 11 Personalverwaltung | → Sekretariat/Personal |
 
 > Namensschema: `Schuljahr_Prozessnr_Name`; Vorlagen mit Suffix `_VORLAGE`. Zahl = Prozessnummer (hier 03).
