@@ -12,14 +12,14 @@ theme:
   font: false
   palette:
     - scheme: default
-      primary: teal
-      accent: deep orange
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Dunkelmodus
     - scheme: slate
-      primary: teal
-      accent: deep orange
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Hellmodus
@@ -29,6 +29,9 @@ theme:
     - navigation.footer
     - search.suggest
     - toc.integrate
+
+extra_css:
+  - stylesheets/wes.css
 
 plugins:
   - search:

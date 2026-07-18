@@ -1,0 +1,68 @@
+/* WES-Designsystem "Klar" für das Jufi-Portal
+   Navy #184878 als einzige Markenfarbe · Linien statt Flächen · keine externen Fonts */
+
+:root,
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #184878;
+  --md-primary-fg-color--light: #4a6f9c;
+  --md-primary-fg-color--dark: #103356;
+  --md-accent-fg-color: #184878;
+  --md-typeset-a-color: #184878;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #184878;
+  --md-primary-fg-color--dark: #103356;
+  --md-accent-fg-color: #9fbfe3;
+  --md-typeset-a-color: #9fbfe3;
+}
+
+/* Schrift: Calibri wo vorhanden, sonst Systemschrift (keine Google Fonts) */
+body,
+.md-typeset {
+  font-family: Calibri, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Überschriften in WES-Typo */
+[data-md-color-scheme="default"] .md-typeset h1 {
+  color: #1a1f2b;
+  font-weight: 700;
+}
+[data-md-color-scheme="default"] .md-typeset h2 {
+  color: #184878;
+  font-weight: 700;
+}
+[data-md-color-scheme="default"] .md-typeset h3 {
+  color: #184878;
+}
+
+/* Tabellen: Navy-Kopf mit Unterlinie statt Füllfläche, Haarlinien-Zeilen */
+[data-md-color-scheme="default"] .md-typeset table:not([class]) th {
+  background: transparent;
+  color: #184878;
+  border-bottom: 2px solid #184878;
+}
+[data-md-color-scheme="default"] .md-typeset table:not([class]) td {
+  border-top: 1px solid #d7dae0;
+}
+
+/* Admonitions (Hinweis-Boxen) im Merke-Stil: Tint + Navy-Balken */
+[data-md-color-scheme="default"] .md-typeset .admonition,
+[data-md-color-scheme="default"] .md-typeset details {
+  border-color: #184878;
+}
+[data-md-color-scheme="default"] .md-typeset .admonition.note,
+[data-md-color-scheme="default"] .md-typeset .admonition.info,
+[data-md-color-scheme="default"] .md-typeset .admonition.warning {
+  border-left: 4px solid #184878;
+  background: #eef2f8;
+}
+[data-md-color-scheme="default"] .md-typeset .note > .admonition-title,
+[data-md-color-scheme="default"] .md-typeset .info > .admonition-title,
+[data-md-color-scheme="default"] .md-typeset .warning > .admonition-title {
+  background: #eef2f8;
+  color: #184878;
+}
+[data-md-color-scheme="default"] .md-typeset .admonition-title::before {
+  background-color: #184878 !important;
+}
