@@ -23,6 +23,15 @@ MAPPING = {
     "2.1_Wareneinkauf-Lager": ("abteilung-2-1", "Abteilung 2.1 – Wareneinkauf / Lager"),
 }
 
+# MATERIAL: Master-PDF (relativ zum Projekt-Root) -> Dateiname in docs/dateien/
+# Nur Lesematerial. Arbeitsdateien (Excel/Word zum Ausfuellen) gehoeren NICHT ins
+# oeffentliche Portal - sie liegen auf dem Schullaufwerk.
+MATERIAL = {
+    "00_Firmenorga/_Vorlagen/2627_00_Regeln_Handout-A4_v1.pdf": "Regeln-Handout.pdf",
+    "1_Sekretariat-Personal/_Vorlagen/2627_08_Arbeitszeugnis-Infoblatt_v1.pdf": "Infoblatt-Arbeitszeugnis.pdf",
+    "1_Sekretariat-Personal/_Vorlagen/2627_10_Betriebsrat-Infoblatt_v1.pdf": "Infoblatt-Betriebsrat.pdf",
+}
+
 # SPERRLISTE: diese Dateien werden NIEMALS veroeffentlicht (Regex, case-insensitive)
 BLOCKLIST = [
     r"^00_Logins",              # Zugangsdaten
@@ -56,13 +65,39 @@ def sync_regeln(warnings: list[str]) -> None:
     for pattern, label in CONTENT_WARN:
         if re.search(pattern, text):
             warnings.append(f"00_Regeln-Mitarbeitende.md: {label}")
+    # Hinweis auf die Druckfassung nur in der Portalfassung ergaenzen
+    text = text.replace(
+        "> Gilt verbindlich für **alle Abteilungen**.",
+        "> Gilt verbindlich für **alle Abteilungen**. Zum Ausdrucken gibt es dieselben Regeln\n"
+        "> als [Handout (PDF)](dateien/Regeln-Handout.pdf) — siehe [Material](material.md).\n>\n> ",
+        1,
+    )
     (DOCS / "regeln.md").write_text(text, encoding="utf-8")
     print("  kopiert:   00_Regeln-Mitarbeitende.md -> regeln.md")
+
+
+def sync_material(warnings: list[str]) -> None:
+    """Lesematerial (PDF) aus den _Vorlagen-Ordnern -> docs/dateien/."""
+    ziel = DOCS / "dateien"
+    ziel.mkdir(parents=True, exist_ok=True)
+    erlaubt = set()
+    for quelle, name in MATERIAL.items():
+        src = ROOT / quelle
+        erlaubt.add(name)
+        if not src.is_file():
+            warnings.append(f"Material fehlt: {quelle} - {name} nicht aktualisiert")
+            continue
+        shutil.copy2(src, ziel / name)
+        print(f"  kopiert:   {name}")
+    for alt in ziel.glob("*"):
+        if alt.is_file() and alt.name not in erlaubt:
+            warnings.append(f"dateien/{alt.name}: nicht mehr in MATERIAL - manuell loeschen")
 
 
 def main() -> int:
     warnings: list[str] = []
     sync_regeln(warnings)
+    sync_material(warnings)
     for src_name, (dst_name, title) in MAPPING.items():
         src = ROOT / src_name / "_Prozesse"
         dst = DOCS / dst_name

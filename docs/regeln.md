@@ -1,6 +1,9 @@
 # Regeln für alle Mitarbeitenden¹ – Juniorenfirma ’s Badische Schullädle
 
-> Gilt verbindlich für **alle Abteilungen**. Die Abteilungs-Hinweise verweisen auf dieses Dokument und ergänzen nur Abteilungsspezifisches.
+> Gilt verbindlich für **alle Abteilungen**. Zum Ausdrucken gibt es dieselben Regeln
+> als [Handout (PDF)](dateien/Regeln-Handout.pdf) — siehe [Material](material.md).
+>
+>  Die Abteilungs-Hinweise verweisen auf dieses Dokument und ergänzen nur Abteilungsspezifisches.
 
 ## 1. Geltung
 

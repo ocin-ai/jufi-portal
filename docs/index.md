@@ -21,4 +21,6 @@
 
 ---
 
+**Unterlagen zum Lesen und Ausdrucken:** [Material](material.md) · **Regeln:** [Regeln](regeln.md)
+
 **So arbeitet ihr mit dieser Seite:** Eure MA-Nr. suchen → Auftrag lesen → auf den Prozess-Link klicken → nach Prozessbeschreibung arbeiten. Bei Fragen zuerst in den Prozess schauen, dann den Fachlehrer fragen.
