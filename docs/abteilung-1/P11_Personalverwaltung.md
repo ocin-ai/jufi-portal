@@ -19,9 +19,9 @@ Schlanke Personalverwaltung der Juniorenfirma. Aktiv sind derzeit nur die Verwal
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Zusatzstunden-Übersicht | 25-26_11_Zusatzstunden | `Ablage_1_Sekretariat-Personal/11_Personalverwaltung/` |
-| Einverständniserklärung U18 (WES-Vorlage 26/27) | 26-27_11_Einverstaendniserklaerung-U18-Einkaufsfahrten_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/11_Personalverwaltung/Einkaufsfahrten-Formulare/` |
-| Fahrer-Regelung (WES-Vorlage 26/27, 1,00 €/km) | 26-27_11_Fahrer-Regelung-Einkaufsfahrten_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/11_Personalverwaltung/Einkaufsfahrten-Formulare/` |
+| Zusatzstunden-Übersicht | 2627_11_Zusatzstunden | `Ablage_1_Sekretariat-Personal/11_Personalverwaltung/` |
+| Einverständniserklärung U18 (WES-Vorlage 26/27) | 2627_11_Einverstaendniserklaerung-U18-Einkaufsfahrten_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/11_Personalverwaltung/Einkaufsfahrten-Formulare/` |
+| Fahrer-Regelung (WES-Vorlage 26/27, 1,00 €/km) | 2627_11_Fahrer-Regelung-Einkaufsfahrten_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/11_Personalverwaltung/Einkaufsfahrten-Formulare/` |
 | Vorjahresfassungen 25/26 (.doc) | – | `Input/1/` |
 
 ## Prozessschritte (aktiv)

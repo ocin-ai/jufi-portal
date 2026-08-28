@@ -19,7 +19,7 @@ Alle Einkaufsbelege, die Ausgaben für Verkaufsartikel des Kiosks bzw. des Snack
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Einkaufsbelege (Excel) | 25-26_04_Einkaufsbelege | Ablage_2.1_Wareneinkauf-Lager/04_Einkaufsbelege-digitalisieren/ |
+| Einkaufsbelege (Excel) | 2627_04_Einkaufsbelege | Ablage_2.1_Wareneinkauf-Lager/04_Einkaufsbelege-digitalisieren/ |
 | Belegfotos (je Einkaufsdatum) | – | Ablage_2.1_Wareneinkauf-Lager/04_Einkaufsbelege-digitalisieren/Belegfotos/ |
 
 ## Prozessschritte

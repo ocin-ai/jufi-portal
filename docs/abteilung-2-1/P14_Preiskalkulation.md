@@ -19,7 +19,19 @@ Kalkulation der Verkaufspreise unter Berücksichtigung der Kosten (insbes. Einka
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Preiskalkulation (Excel) | 25-26_14_Preiskalkulation | Ablage_2.1_Wareneinkauf-Lager/14_Preiskalkulation/ |
+| Preiskalkulation (Excel) | 2627_14_Preiskalkulation | Ablage_2.1_Wareneinkauf-Lager/14_Preiskalkulation/ |
+
+## Kalkulationsregel
+
+Der Verkaufspreis entsteht in drei Schritten (so ist die Excel aufgebaut):
+
+| Schritt | Rechnung |
+| --- | --- |
+| Bezugspreis je Stück | Einkaufspreis je Stück **+ 10 % Nebenkosten** (deckt Fahrt- und Nebenkosten pauschal ab) |
+| Verkaufspreis kalkuliert | Bezugspreis **+ Gewinnzuschlag zwischen 20 % und 30 %** |
+| Verkaufspreis endgültig | **Aufrunden auf volle 0,10 €** |
+
+Der Gewinnzuschlag ist **kein fester Wert, sondern situativ je Artikel festzulegen**: 20 % bei Artikeln, die im Vergleich zu Supermarkt oder Bäckerei teuer wirken oder sich schlecht verkaufen; 30 % bei Artikeln mit hoher Nachfrage, kleinem Stückpreis oder Verderbrisiko. Wer keinen Grund für eine Abweichung hat, nimmt den Standardwert von 25 %. Die Wahl ist in der Excel je Artikel eintragbar und wird bei der Abteilungsbesprechung kurz begründet.
 
 ## Prozessschritte
 

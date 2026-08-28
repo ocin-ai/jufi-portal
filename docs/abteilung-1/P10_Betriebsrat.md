@@ -19,9 +19,9 @@ Jährliche Einführung und Wahl des Betriebsrats: Die SuS erarbeiten die Grundla
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Präsentations-Vorlage (WES) | 26-27_10_Betriebsrat-Praesentation_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/10_Betriebsrat/` |
-| SuS-Infoblatt (WES; BetrVG-Grundlagen, Wahl, Jufi-Umsetzung) | 26-27_10_Betriebsrat-Infoblatt_v1 | `Ablage_1_Sekretariat-Personal/10_Betriebsrat/` |
-| Checkliste Wahl | 25-26_10_Betriebsrat-Checkliste-Wahl | [tbd. – bei Bedarf erstellen] |
+| Präsentations-Vorlage (WES) | 2627_10_Betriebsrat-Praesentation_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/10_Betriebsrat/` |
+| SuS-Infoblatt (WES; BetrVG-Grundlagen, Wahl, Jufi-Umsetzung) | 2627_10_Betriebsrat-Infoblatt_v1 | `Ablage_1_Sekretariat-Personal/10_Betriebsrat/` |
+| Checkliste Wahl | 2627_10_Betriebsrat-Checkliste-Wahl | [tbd. – bei Bedarf erstellen] |
 | Vorjahres-Material (Stichpunkte, SuS-Präsentation 25/26, Prozess-Notiz) | – | `Input/Sekretariat/Betriebsrat *.docx` · `…/Präsentation 2.pptx` |
 
 ## Prozessschritte

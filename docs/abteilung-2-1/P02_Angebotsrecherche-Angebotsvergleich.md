@@ -19,7 +19,7 @@ Identifikation von Angeboten zu Verkaufsartikeln (die im Jufi-Kiosk bzw. im Snac
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Angebotsrecherche | 25-26_02_Angebotsrecherche | Ablage_2.1_Wareneinkauf-Lager/02_Angebotsrecherche-Angebotsvergleich/ |
+| Angebotsrecherche | 2627_02_Angebotsrecherche | Ablage_2.1_Wareneinkauf-Lager/02_Angebotsrecherche-Angebotsvergleich/ |
 
 > Namensschema: `Schuljahr_Prozessnr_Name`. Vorlage aus dem Vorjahr: `24-25_2.1_Angebotsrecherche.xlsx`.
 

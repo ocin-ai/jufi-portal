@@ -19,7 +19,7 @@ Zum Preisaushang gehören die Preisliste und die Preisschilder. Die Preisschilde
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Preisliste | 25-26_09_Preisliste | Ablage_2.1_Wareneinkauf-Lager/09_Verwaltung-Preisaushang/ |
+| Preisliste | 2627_09_Preisliste | Ablage_2.1_Wareneinkauf-Lager/09_Verwaltung-Preisaushang/ |
 | SumUp-Dashboard | – | – |
 | Inventarliste | vgl. [P08](P08_Verwaltung-Inventarliste.md) | vgl. P08 |
 

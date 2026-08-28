@@ -19,14 +19,14 @@ Ziel ist es, eine Orientierungsgröße für den Beitrag einzelner Artikel zum Ge
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Gewinn- und Verlustrechnung (Excel) | 25-26_06_Gewinn-und-Verlustrechnung | Ablage_2.1_Wareneinkauf-Lager/06_Gewinn-und-Verlustrechnung/ |
+| Gewinn- und Verlustrechnung (Excel) | 2627_06_Gewinn-und-Verlustrechnung | Ablage_2.1_Wareneinkauf-Lager/06_Gewinn-und-Verlustrechnung/ |
 | Umsatzauswertung / SumUp-Export | vgl. [P05](P05_Umsatzauswertung-SumUp.md) | vgl. P05 |
 | Einkaufsbelege (digital) | vgl. [P04](P04_Einkaufsbelege-digitalisieren.md) | vgl. P04 |
-| Konzept-Notiz (Aufbau der Excel; Datei folgt bei Bedarf) | 25-26_06_Gewinn-und-Verlustrechnung_Konzept.md | Ablage_2.1_Wareneinkauf-Lager/06_Gewinn-und-Verlustrechnung/ |
+| Konzept-Notiz (Aufbau der Excel; Datei folgt bei Bedarf) | 2627_06_Gewinn-und-Verlustrechnung_Konzept.md | Ablage_2.1_Wareneinkauf-Lager/06_Gewinn-und-Verlustrechnung/ |
 
 ## Prozessschritte
 
-- [ ] Öffnen der Datei `25-26_06_Gewinn-und-Verlustrechnung`.
+- [ ] Öffnen der Datei `2627_06_Gewinn-und-Verlustrechnung`.
 - [ ] Eingabe der aktuellen Verkaufspreise der einzelnen Artikel.
 - [ ] Umsatzauswertung aus SumUp herunterladen (vgl. [P05](P05_Umsatzauswertung-SumUp.md)).
 - [ ] Umwandlung der .csv-Datei in eine Excel-Tabelle mit Datenfilter.

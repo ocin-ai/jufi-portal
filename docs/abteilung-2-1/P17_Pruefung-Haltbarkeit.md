@@ -19,14 +19,14 @@ Es muss regelmäßig geprüft werden, ob bzw. wie lange die angebotenen Artikel 
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Prüfung Haltbarkeit (Excel) | 25-26_17_Pruefung-Haltbarkeit | Ablage_2.1_Wareneinkauf-Lager/17_Pruefung-Haltbarkeit/ |
+| Prüfung Haltbarkeit (Excel) | 2627_17_Pruefung-Haltbarkeit | Ablage_2.1_Wareneinkauf-Lager/17_Pruefung-Haltbarkeit/ |
 
 > Vorlage aus dem Vorjahr: `24-25_17_Prüfung Haltbarkeit.xlsx`.
 
 ## Prozessschritte
 
 - [ ] Prüfung aller Artikel im Ist-Bestand, die ein Mindesthaltbarkeitsdatum haben.
-- [ ] Dokumentation der Artikel in der Datei `25-26_17_Pruefung-Haltbarkeit`.
+- [ ] Dokumentation der Artikel in der Datei `2627_17_Pruefung-Haltbarkeit`.
 - [ ] Hinweis an Geschäftsleitung, wenn Produkte nur noch maximal sieben Tage haltbar sind.
 - [ ] Hinweis an Geschäftsleitung erfolgt schriftlich: Art der Produkte, Ablauf Mindesthaltbarkeitsdatum, Menge im Bestand.
 - [ ] Weiterhin sollen Ideen entwickelt werden, wie mit den Produkten, die kurz vor dem „Ablauf" stehen, umgegangen werden soll.

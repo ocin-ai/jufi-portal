@@ -19,10 +19,10 @@ Für jeden Artikel die passende Bestellmenge bestimmen, sodass der Kiosk bis zum
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Bedarfsermittlung (Excel, optional) | 25-26_13_Bedarfsermittlung | Ablage_2.1_Wareneinkauf-Lager/13_Optimale-Bestellmenge/ |
+| Bedarfsermittlung (Excel, optional) | 2627_13_Bedarfsermittlung | Ablage_2.1_Wareneinkauf-Lager/13_Optimale-Bestellmenge/ |
 | Verkaufsdaten (SumUp) | vgl. [P05](P05_Umsatzauswertung-SumUp.md) | vgl. P05 |
 | Aktueller Bestand (Inventur) | vgl. [P07](P07_Inventur.md) | vgl. P07 |
-| Konzept-Notiz (Aufbau der Excel; Datei folgt bei Bedarf) | 25-26_13_Bedarfsermittlung_Konzept.md | Ablage_2.1_Wareneinkauf-Lager/13_Optimale-Bestellmenge/ |
+| Konzept-Notiz (Aufbau der Excel; Datei folgt bei Bedarf) | 2627_13_Bedarfsermittlung_Konzept.md | Ablage_2.1_Wareneinkauf-Lager/13_Optimale-Bestellmenge/ |
 
 ## Prozessschritte
 

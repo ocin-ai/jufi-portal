@@ -19,9 +19,9 @@ Das Kassensystem SumUp bietet eine Menge an Informationen. Diese Informationen l
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Umsatzauswertung (Excel) | 25-26_05_Umsatzauswertung-SumUp | Ablage_2.1_Wareneinkauf-Lager/05_Umsatzauswertung-SumUp/ |
-| SumUp-Export (CSV) | 25-26_05_SumUp-Export_JJJJ-MM-TT | Ablage_2.1_Wareneinkauf-Lager/05_Umsatzauswertung-SumUp/ |
-| Konzept-Notiz (Aufbau der Excel; Datei folgt bei Bedarf) | 25-26_05_Umsatzauswertung-SumUp_Konzept.md | Ablage_2.1_Wareneinkauf-Lager/05_Umsatzauswertung-SumUp/ |
+| Umsatzauswertung (Excel) | 2627_05_Umsatzauswertung-SumUp | Ablage_2.1_Wareneinkauf-Lager/05_Umsatzauswertung-SumUp/ |
+| SumUp-Export (CSV) | 2627_05_SumUp-Export_JJJJ-MM-TT | Ablage_2.1_Wareneinkauf-Lager/05_Umsatzauswertung-SumUp/ |
+| Konzept-Notiz (Aufbau der Excel; Datei folgt bei Bedarf) | 2627_05_Umsatzauswertung-SumUp_Konzept.md | Ablage_2.1_Wareneinkauf-Lager/05_Umsatzauswertung-SumUp/ |
 
 ## Prozessschritte
 

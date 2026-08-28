@@ -19,8 +19,8 @@ Schlanke Erhebung der Mitarbeiterzufriedenheit; Ergebnisse fließen in die Arbei
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Fragenkatalog (MS Forms, 10 Fragen, Basis Okt. 2025) | – | `Input/Sekretariat/25-26_Mitarbeiterumfrage_Oktober 2025.docx` |
-| Auswertung (je Durchlauf) | 25-26_09_Mitarbeiterzufriedenheit_JJJJ-MM-TT | `Ablage_1_Sekretariat-Personal/09_Umfragen-Mitarbeiterzufriedenheit/` |
+| Fragenkatalog (MS Forms, 10 Fragen, Basis Okt. 2025) | – | `Input/Sekretariat/2627_Mitarbeiterumfrage_Oktober 2025.docx` |
+| Auswertung (je Durchlauf) | 2627_09_Mitarbeiterzufriedenheit_JJJJ-MM-TT | `Ablage_1_Sekretariat-Personal/09_Umfragen-Mitarbeiterzufriedenheit/` |
 
 ## Prozessschritte
 

@@ -19,8 +19,8 @@ Die Inventarliste ist das zentrale Dokument in Bezug auf die Verwaltung der Arti
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Inventarliste (Excel) | 25-26_08_Inventarliste | Ablage_2.1_Wareneinkauf-Lager/08_Verwaltung-Inventarliste/ |
-| Konzept-Notiz (Aufbau der Excel; Datei folgt bei Bedarf) | 25-26_08_Inventarliste_Konzept.md | Ablage_2.1_Wareneinkauf-Lager/08_Verwaltung-Inventarliste/ |
+| Inventarliste (Excel) | 2627_08_Inventarliste | Ablage_2.1_Wareneinkauf-Lager/08_Verwaltung-Inventarliste/ |
+| Konzept-Notiz (Aufbau der Excel; Datei folgt bei Bedarf) | 2627_08_Inventarliste_Konzept.md | Ablage_2.1_Wareneinkauf-Lager/08_Verwaltung-Inventarliste/ |
 
 > Wird ggf. aus der bisherigen Sortimentsliste (`Jufi-Kiosk-Sortiment-202404.xlsx`) weitergeführt – bei Übernahme dort prüfen.
 

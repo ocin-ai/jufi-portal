@@ -19,14 +19,16 @@ Das Sekretariat führt einen **Terminplan für das ganze Schuljahr** – die zen
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Terminplan-Vorlage, Variante A: Terminliste nach Phasen (Ferien/Feiertage vorbefüllt) | 26-27_04_Terminplan_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/04_Terminplanung/` |
-| Terminplan-Vorlage, Variante B: Jahreskalender-Raster (Kalenderpedia BW 26/27, Termine direkt in die Tageszellen eintragen) | 26-27_04_Terminplan-Jahreskalender_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/04_Terminplanung/` |
-| Terminplan (je Schuljahr, aus Vorlage) | z. B. 26-27_04_Terminplan | `Ablage_1_Sekretariat-Personal/04_Terminplanung/` |
-| Checkliste | 25-26_04_Terminplan-Checkliste | [tbd. – auffinden] |
+| Terminplan-Vorlage, Variante A: Terminliste nach Phasen (Ferien/Feiertage vorbefüllt) | 2627_04_Terminplan_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/04_Terminplanung/` |
+| Terminplan-Vorlage, Variante B: Jahreskalender-Raster (Kalenderpedia BW 26/27, Termine direkt in die Tageszellen eintragen) | 2627_04_Terminplan-Jahreskalender_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/04_Terminplanung/` |
+| Terminplan (je Schuljahr, aus Vorlage) | z. B. 2627_04_Terminplan | `Ablage_1_Sekretariat-Personal/04_Terminplanung/` |
+| Checkliste | 2627_04_Terminplan-Checkliste | [tbd. – auffinden] |
 
 ## Prozessschritte
 
 - [ ] Zu Schuljahresbeginn: Terminplan aus der Vorlage anlegen (Ferien/Feiertage sind bereits vorbefüllt) und mit den bekannten Terminen füllen: Klassenarbeiten, Prüfungen, Leistungsnachweise, Jufi-Termine.
+- [ ] **Letzter Kiosktag 30.04.2027** eintragen; ab 03.05.2027 kein Kioskbetrieb und kein Schichtplan mehr (vgl. [P02](P02_Schichtplaene.md)).
+- [ ] **Fasnachtsferien 08.–12.02.2027** als Schließzeit eintragen (in der Vorlage ggf. nachtragen).
 - [ ] Laufend pflegen: neue Termine eintragen, Änderungen nachführen.
 - [ ] Überwachen: anstehende Termine im Jour Fixe (vgl. [P03](P03_Jour-Fixe.md)) ansprechen.
 

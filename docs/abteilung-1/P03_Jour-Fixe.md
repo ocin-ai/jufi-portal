@@ -22,9 +22,9 @@ Vorbereitung, Moderation und Protokollierung des Jour Fixe der Juniorenfirma (an
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Zentrale Themenliste (Vorlage) | 25-26_03_Themenliste_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/03_Jour-Fixe/` |
-| Protokoll-/Agenda-Vorlage | 25-26_03_Jour-Fixe-Protokoll_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/03_Jour-Fixe/` |
-| Protokoll (je Sitzung) | 25-26_03_Jour-Fixe-Protokoll_JJJJ-MM-TT | `Ablage_1_Sekretariat-Personal/03_Jour-Fixe/` |
+| Zentrale Themenliste (Vorlage) | 2627_03_Themenliste_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/03_Jour-Fixe/` |
+| Protokoll-/Agenda-Vorlage | 2627_03_Jour-Fixe-Protokoll_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/03_Jour-Fixe/` |
+| Protokoll (je Sitzung) | 2627_03_Jour-Fixe-Protokoll_JJJJ-MM-TT | `Ablage_1_Sekretariat-Personal/03_Jour-Fixe/` |
 
 ## Prozessschritte
 
@@ -43,7 +43,7 @@ Vorbereitung, Moderation und Protokollierung des Jour Fixe der Juniorenfirma (an
 
 ### Nachbereitung
 
-- [ ] Protokoll finalisieren und im Ablage-Ordner speichern (Dateiname mit Sitzungsdatum: `25-26_03_Jour-Fixe-Protokoll_JJJJ-MM-TT`).
+- [ ] Protokoll finalisieren und im Ablage-Ordner speichern (Dateiname mit Sitzungsdatum: `2627_03_Jour-Fixe-Protokoll_JJJJ-MM-TT`).
 - [ ] Kein Austeilen oder Aushängen – das gespeicherte Protokoll genügt.
 
 ## Offene Punkte / tbd.

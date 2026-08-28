@@ -19,9 +19,9 @@ Erstellung, Ausgabe und Archivierung der Arbeitsverträge für alle SuS der Juni
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Vertragsvorlage (WES-Design, Schuljahr 26/27) | 26-27_07_Arbeitsvertrag_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/07_Arbeitsvertraege/` |
-| Checkliste Ausgabe/Unterschrift (nur MA-Kürzel) | 26-27_07_Arbeitsvertrag-Checkliste | `Ablage_1_Sekretariat-Personal/07_Arbeitsvertraege/` |
-| Seriendruck-Datenquelle (⚠ echte Namen) + Anleitung Serienbrief (Word) | 26-27_07_Vertrag-Seriendruck-Datenquelle · 26-27_00_Anleitung-Serienbrief | bei der Lehrkraft (vertraulich) |
+| Vertragsvorlage (WES-Design, Schuljahr 26/27) | 2627_07_Arbeitsvertrag_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/07_Arbeitsvertraege/` |
+| Checkliste Ausgabe/Unterschrift (nur MA-Kürzel) | 2627_07_Arbeitsvertrag-Checkliste | `Ablage_1_Sekretariat-Personal/07_Arbeitsvertraege/` |
+| Seriendruck-Datenquelle (⚠ echte Namen) + Anleitung Serienbrief (Word) | 2627_07_Vertrag-Seriendruck-Datenquelle · 2627_00_Anleitung-Serienbrief | bei der Lehrkraft (vertraulich) |
 | Vorjahresfassung 25/26 (⚠ enthält echten Schülernamen in der Unterschriftszeile) | – | `Input/Sekretariat/25-26_Arbeitsvertrag fertig.docx` |
 
 ## Prozessschritte

@@ -19,7 +19,7 @@ Einführung neuer Artikel und Elimination von Bestandsartikeln.
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Produktmanagement-Liste (Excel: Ideen, Typ, Entscheidung – erstellt 2026-07-18) | 25-26_15_Produktmanagement | Ablage_2.1_Wareneinkauf-Lager/15_Produktmanagement/ |
+| Produktmanagement-Liste (Excel: Ideen, Typ, Entscheidung – erstellt 2026-07-18) | 2627_15_Produktmanagement | Ablage_2.1_Wareneinkauf-Lager/15_Produktmanagement/ |
 
 ## Prozessschritte
 

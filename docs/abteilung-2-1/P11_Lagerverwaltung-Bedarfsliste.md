@@ -19,7 +19,7 @@ Allgemeine Tätigkeiten mit Bezug zum Lager (Kiosk).
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Bedarfsliste | 25-26_11_Bedarfsliste | Ablage_2.1_Wareneinkauf-Lager/11_Lagerverwaltung-Bedarfsliste/ |
+| Bedarfsliste | 2627_11_Bedarfsliste | Ablage_2.1_Wareneinkauf-Lager/11_Lagerverwaltung-Bedarfsliste/ |
 
 > Vorlage aus dem Vorjahr: `24-25_2.1_05_Bedarfsliste.xlsx`.
 

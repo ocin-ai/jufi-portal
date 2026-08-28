@@ -1,3 +1,19 @@
+# Whitelist-Prinzip: Das Repo ist OEFFENTLICH. Standardmaessig wird alles
+# ignoriert; nur was die Website wirklich braucht, wird veroeffentlicht.
+# Interne Anleitungen (HOSTING, WORKFLOW, NOTFALL, Zweitgeraet, Startprompt,
+# Konzept) bleiben dadurch im lokalen Projektordner.
+/*
+
+!/docs/
+!/mkdocs.yml
+!/requirements.txt
+!/publish.sh
+!/sync_prozesse.py
+!/README.md
+!/.github/
+!/.gitignore
+
+# innerhalb der freigegebenen Ordner trotzdem ausschliessen:
 site/
 .secrets/
 .DS_Store

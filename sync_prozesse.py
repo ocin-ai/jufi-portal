@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Sync Prozesse/ -> portal/docs/ mit Sperrliste.
+"""Sync <Abteilung>/_Prozesse/ -> Portal/docs/ mit Sperrliste.
 
-Quelle der Wahrheit bleibt der Ordner Prozesse/ im Projekt-Root.
+Quelle der Wahrheit bleiben die Ordner `_Prozesse/` in den Abteilungsordnern.
 Dieses Skript kopiert die schuelertauglichen Prozessdateien in die
 Website-Struktur. Vor jedem Publish ausfuehren.
 
 Aufruf:  python3 sync_prozesse.py [Projekt-Root]
-         (ohne Argument: eine Ebene ueber Kommunikation/)
+         (ohne Argument: der Projektordner BK2J-Jufi, zwei Ebenen ueber Portal/)
 """
 import re
 import shutil
@@ -45,10 +45,10 @@ def blocked(name: str) -> bool:
 
 
 def sync_regeln(warnings: list[str]) -> None:
-    """Prozesse/00_Regeln-Mitarbeitende.md -> docs/regeln.md (SuS-Regelwerk)."""
-    src = ROOT / "Prozesse" / "00_Regeln-Mitarbeitende.md"
+    """00_Firmenorga/00_Regeln-Mitarbeitende.md -> docs/regeln.md (SuS-Regelwerk)."""
+    src = ROOT / "00_Firmenorga" / "00_Regeln-Mitarbeitende.md"
     if not src.is_file():
-        warnings.append("00_Regeln-Mitarbeitende.md fehlt in Prozesse/ – docs/regeln.md nicht aktualisiert")
+        warnings.append("00_Regeln-Mitarbeitende.md fehlt in 00_Firmenorga/ – docs/regeln.md nicht aktualisiert")
         return
     text = src.read_text(encoding="utf-8")
     # Entwurfs-/Status-Zeile nicht veroeffentlichen
@@ -64,14 +64,14 @@ def main() -> int:
     warnings: list[str] = []
     sync_regeln(warnings)
     for src_name, (dst_name, title) in MAPPING.items():
-        src = ROOT / "Prozesse" / src_name
+        src = ROOT / src_name / "_Prozesse"
         dst = DOCS / dst_name
         if not src.is_dir():
             print(f"FEHLER: Quelle fehlt: {src}")
             return 1
         dst.mkdir(parents=True, exist_ok=True)
         # Hinweis: Dateien werden ueberschrieben, aber nicht geloescht.
-        # Wird eine Prozessdatei in Prozesse/ umbenannt/entfernt, die alte
+        # Wird eine Prozessdatei in _Prozesse/ umbenannt/entfernt, die alte
         # Kopie in docs/ manuell loeschen (Warnung unten).
         src_names = {f.name for f in src.glob("*.md") if not blocked(f.name)}
         for old in dst.glob("*.md"):
