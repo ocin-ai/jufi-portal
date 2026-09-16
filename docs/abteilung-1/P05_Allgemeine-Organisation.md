@@ -20,11 +20,11 @@ Sammelprozess für alle organisatorischen Aufgaben, die keinem anderen Prozess z
 - Ad-hoc-Aufträge der Lehrkräfte erledigen.
 - Materialbestellung in Sonderfällen (reguläre Bestellungen laufen über Abteilung 2).
 - Raumorganisation.
-- Exkursionen und Klassenausflüge organisieren: Elternbriefe erstellen, Informationen an die Klasse weitergeben (Beispiele: `Input/Sekretariat/BK2J_Exkursion LDB GmbH_2526.docx`, `…/LDB Elternbrief.docx`).
+- Exkursionen und Klassenausflüge organisieren: Elternbriefe erstellen, Informationen an die Klasse weitergeben (Beispiele: `1_Sekretariat-Personal/BK2J_Exkursion-LDB-GmbH_2526.docx`, `…/LDB-Elternbrief.docx` (Lehrkraftbereich)).
 - **Schlüsselliste führen**: Ausgabe und Rückgabe der Schlüssel dokumentieren (Vorlage: `1_Sekretariat-Personal/Schluesselliste-Sekretariat.docx` → künftig `2627_05_Schluesselliste` im Ablage-Ordner 05).
 
 ## Relevante Dateien
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Schlüsselliste | 2627_05_Schluesselliste | `Ablage_1_Sekretariat-Personal/05_Allgemeine-Organisation/` |
+| Schlüsselliste | 2627_05_Schluesselliste | `1_Sekretariat-Personal/05_Allgemeine-Organisation/` |

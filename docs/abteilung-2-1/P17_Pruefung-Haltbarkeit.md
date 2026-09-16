@@ -19,7 +19,7 @@ Es muss regelmäßig geprüft werden, ob bzw. wie lange die angebotenen Artikel 
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Prüfung Haltbarkeit (Excel) | 2627_17_Pruefung-Haltbarkeit | Ablage_2.1_Wareneinkauf-Lager/17_Pruefung-Haltbarkeit/ |
+| Prüfung Haltbarkeit (Excel) | 2627_17_Pruefung-Haltbarkeit | 2.1_Wareneinkauf-Lager/17_Pruefung-Haltbarkeit/ |
 
 > Vorlage aus dem Vorjahr: `24-25_17_Prüfung Haltbarkeit.xlsx`.
 

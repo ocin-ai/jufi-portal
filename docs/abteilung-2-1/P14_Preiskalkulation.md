@@ -19,7 +19,7 @@ Kalkulation der Verkaufspreise unter Berücksichtigung der Kosten (insbes. Einka
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Preiskalkulation (Excel) | 2627_14_Preiskalkulation | Ablage_2.1_Wareneinkauf-Lager/14_Preiskalkulation/ |
+| Preiskalkulation (Excel) | 2627_14_Preiskalkulation | 2.1_Wareneinkauf-Lager/14_Preiskalkulation/ |
 
 ## Kalkulationsregel
 

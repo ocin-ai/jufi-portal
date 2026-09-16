@@ -1,23 +1,28 @@
-# Arbeitsaufträge – KW 29 (13.–17. Juli 2026)
+# Arbeitsaufträge – KW 38 (14.–18. September 2026)
 
-> Stand: 10.07.2026 · Sucht eure **Personalnummer (MA-Nr.)** in der Spalte „Wer". Ältere Wochen: [Archiv](archiv/index.md).
-
-!!! note "Testlauf"
-    Diese Aufträge dienen der Erprobung des Portals.
+> Stand: 16.09.2026 · Sucht eure **Personalnummer (MA-Nr.)** in der Spalte „Wer". Ältere Wochen: [Archiv](archiv/index.md).
 
 ## Abteilung 1 – Sekretariat / Personal
 
 | Wer | Auftrag | Prozess |
 | --- | --- | --- |
-| alle 1 | Alle offenen Arbeitszeugnisse fertigstellen | [P08](abteilung-1/P08_Arbeitszeugnis.md) |
+| alle 1 | Schichtplanung bis zu den Herbstferien fertigstellen | [P02](abteilung-1/P02_Schichtplaene.md) |
+| alle 1 | Schuljahresplanung erstellen: wichtige Termine in einen Kalender eintragen (zunächst digital, später als Aushang) | [P04](abteilung-1/P04_Terminplanung.md) |
+| alle 1 | Organigramm erstellen | [P12](abteilung-1/P12_Organigramm.md) |
+| alle 1 | Abstimmen, wer künftig welche Themen übernimmt (in der Regel macht jede/r alles) | [P06](abteilung-1/P06_Interne-Abstimmrunde.md) |
+| alle 1 | Puffer bei freier Zeit: sich mit den Prozessen und Aufgaben vertraut machen | – |
+| alle 1 | Kopien für Einkaufsfahrten-Formulare und Vollmachten erstellen (Rücksprache mit Fachlehrer) | [P11](abteilung-1/P11_Personalverwaltung.md) |
+| alle 1 | Arbeitsverträge erstellen (Rücksprache mit Fachlehrer) | [P07](abteilung-1/P07_Arbeitsvertraege.md) |
 
 ## Abteilung 2.1 – Wareneinkauf / Lager
 
 | Wer | Auftrag | Prozess |
 | --- | --- | --- |
-| MA-01, MA-02 | Inventur durchführen und Zählergebnisse eintragen | [P07](abteilung-2-1/P07_Inventur.md) |
-| MA-03, MA-04 | Ordnung im Lager herstellen (Lagerplätze prüfen, Bestände richtig einsortieren) | [P11](abteilung-2-1/P11_Lagerverwaltung-Bedarfsliste.md) |
-| MA-05, MA-06 | Einkauf planen: Einkaufsliste für die Woche erstellen | [P01](abteilung-2-1/P01_Einkaufsliste-erstellen.md) |
+| MA-04, MA-06 | Preiskalkulation fortsetzen, Einkaufspreise festlegen | [P14](abteilung-2-1/P14_Preiskalkulation.md) |
+| MA-04, MA-09 | Einkaufskonto Amazon (Anmeldung/Ummeldung) bzw. andere Online-Einkaufskonten mit Fachlehrer besprechen | [P10](abteilung-2-1/P10_Online-Bestellungen.md) |
+| MA-05, MA-08 | Einkaufsliste fertigstellen, Einkaufswünsche des Sekretariats berücksichtigen | [P01](abteilung-2-1/P01_Einkaufsliste-erstellen.md) |
+| MA-06, MA-07 | Preisschilder-Entwürfe fertigstellen, Entwurf für Preisaushang erstellen | [P09](abteilung-2-1/P09_Verwaltung-Preisaushang.md) |
+| alle 2.1 | Einarbeitung in SumUp (Browser-Version und Kassensystem), um Mitschüler:innen einarbeiten zu können | [P18](abteilung-2-1/P18_Verwaltung-SumUp.md) |
 
 ---
 

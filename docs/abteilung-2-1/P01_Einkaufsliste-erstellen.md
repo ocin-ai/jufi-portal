@@ -19,8 +19,8 @@ Vollständige, informative Einkaufsliste für das Einkaufsteam. Die Liste muss s
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Einkaufsliste (wöchentlich) | 2627_01_Einkaufsliste_JJJJ-MM-TT | Ablage_2.1_Wareneinkauf-Lager/01_Einkaufsliste-erstellen/ |
-| Vorlage (kopieren, Datum ergänzen) | 2627_01_Einkaufsliste_VORLAGE_v1 | Ablage_2.1_Wareneinkauf-Lager/01_Einkaufsliste-erstellen/ |
+| Einkaufsliste (wöchentlich) | 2627_01_Einkaufsliste_JJJJ-MM-TT | 2.1_Wareneinkauf-Lager/01_Einkaufsliste-erstellen/ |
+| Vorlage (kopieren, Datum ergänzen) | 2627_01_Einkaufsliste_VORLAGE_v1 | 2.1_Wareneinkauf-Lager/01_Einkaufsliste-erstellen/ |
 
 > Namensschema: `Schuljahr_Prozessnr_Name`. Da für jede Woche eine neue Liste angelegt wird, ergänzt das ISO-Datum den Stand, z. B. `2627_01_Einkaufsliste_2026-07-02`.
 

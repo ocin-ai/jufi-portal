@@ -35,10 +35,10 @@ Diese Regeln gelten für alle Mitarbeitenden der Juniorenfirma in allen Abteilun
 
 - Jede Abteilung hat einen Ablage-Ordnerbaum nach Prozessgliederung: **ein Ordner je Prozess**, die Ordnernummer entspricht der Prozessnummer. Gespeichert wird ausschließlich dort – nicht auf dem Desktop, nicht in privaten Ordnern.
 - Ordnerbezeichnung: `Ordnernummer_Ordnername` → z. B. `01_Einkaufsliste-erstellen`
-- Dateibezeichnung: `Schuljahr_Ordnernummer_Dateiname` → z. B. `25-26_01_Einkaufsliste`
-- Periodisch neu angelegte Dateien ergänzen das Erstelldatum im ISO-Format (`JJJJ-MM-TT`) → z. B. `25-26_01_Einkaufsliste_2026-07-02`
+- Dateibezeichnung: `Schuljahr_Ordnernummer_Dateiname` → z. B. `2627_01_Einkaufsliste`
+- Periodisch neu angelegte Dateien ergänzen das Erstelldatum im ISO-Format (`JJJJ-MM-TT`) → z. B. `2627_01_Einkaufsliste_2026-09-21`
 - Ein Versions-Suffix (`_v1`, `_v2`, …) tragen nur Vorlagen und formale Dokumente; Vorlagen zusätzlich `_VORLAGE`. Arbeits- und Datendateien führen kein `_vX`.
-- Nicht mehr benötigte Dateien und Altversionen kommen in den Ordner `_Archiv` oder werden – nach Abstimmung mit dem Prozessverantwortlichen – gelöscht.
+- Ältere Fassungen einer Datei, die noch gebraucht werden könnten, kommen in den Unterordner `_Vorfassungen` des jeweiligen Prozessordners. Nicht mehr benötigte Dateien werden – nach Abstimmung mit dem Prozessverantwortlichen – gelöscht. **„Archiv" heißt abgeschlossen** und liegt außerhalb des Arbeitsordners; das macht die Lehrkraft.
 - Alle relevanten Vorgänge werden digital dokumentiert.
 - In Excel-Dateien gilt: **blaue Schrift (grau hinterlegt) = hier eintragen**, schwarze Schrift = wird automatisch berechnet und wird nicht überschrieben.
 

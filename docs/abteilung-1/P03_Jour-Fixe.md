@@ -22,9 +22,9 @@ Vorbereitung, Moderation und Protokollierung des Jour Fixe der Juniorenfirma (an
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Zentrale Themenliste (Vorlage) | 2627_03_Themenliste_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/03_Jour-Fixe/` |
-| Protokoll-/Agenda-Vorlage | 2627_03_Jour-Fixe-Protokoll_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/03_Jour-Fixe/` |
-| Protokoll (je Sitzung) | 2627_03_Jour-Fixe-Protokoll_JJJJ-MM-TT | `Ablage_1_Sekretariat-Personal/03_Jour-Fixe/` |
+| Zentrale Themenliste (Vorlage) | 2627_03_Themenliste_VORLAGE_v1 | `1_Sekretariat-Personal/03_Jour-Fixe/` |
+| Protokoll-/Agenda-Vorlage | 2627_03_Jour-Fixe-Protokoll_VORLAGE_v1 | `1_Sekretariat-Personal/03_Jour-Fixe/` |
+| Protokoll (je Sitzung) | 2627_03_Jour-Fixe-Protokoll_JJJJ-MM-TT | `1_Sekretariat-Personal/03_Jour-Fixe/` |
 
 ## Prozessschritte
 

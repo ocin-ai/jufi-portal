@@ -2,7 +2,7 @@
 
 So ist das Schullädle organisiert – vier Abteilungen unter der Geschäftsleitung:
 
-![Organigramm der Juniorenfirma 's Badische Schullädle, Schuljahr 2025/26](assets/organigramm.png)
+![Organigramm der Juniorenfirma 's Badische Schullädle, Schuljahr 2026/27](assets/organigramm.png)
 
 Die ausführlichen Prozessbeschreibungen der Abteilungen findet ihr über die Navigation
 (Abteilung 1 – Sekretariat / Personal und Abteilung 2.1 – Wareneinkauf / Lager;

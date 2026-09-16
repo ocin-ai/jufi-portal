@@ -20,7 +20,7 @@ Sicherstellung, dass das Jufi-Handy jederzeit verfügbar und einsatzbereit ist.
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
 | Jufi-Handy (Gerätedaten, Ablageort) | vgl. 00_Logins *(interne Datei, nicht im Portal)* | – |
-| Betriebsanleitung (Download) | – | Ablage_2.1_Wareneinkauf-Lager/12_Verwaltung-Jufi-Handy/ |
+| Betriebsanleitung (Download) | – | 2.1_Wareneinkauf-Lager/12_Verwaltung-Jufi-Handy/ |
 
 ## Prozessschritte
 

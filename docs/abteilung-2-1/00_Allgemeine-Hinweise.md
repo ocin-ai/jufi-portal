@@ -13,7 +13,7 @@ Arbeitsweise, Vertraulichkeit, Clean-Desk-Policy und Dateimanagement sind für a
 Die Ablage der Abteilung folgt der Prozessgliederung – ein Ordner je Prozess, die Nummer entspricht der Prozessnummer:
 
 ```
-Ablage_2.1_Wareneinkauf-Lager/
+2.1_Wareneinkauf-Lager/
 ├── 01_Einkaufsliste-erstellen/
 ├── 02_Angebotsrecherche-Angebotsvergleich/
 ├── 03_Einkauf-durchfuehren/
@@ -31,9 +31,14 @@ Ablage_2.1_Wareneinkauf-Lager/
 ├── 15_Produktmanagement/
 ├── 16_Ordnerstruktur-Dateimanagement/
 ├── 17_Pruefung-Haltbarkeit/
-├── 18_Verwaltung-SumUp/
-└── _Archiv/            (nicht mehr aktuelle Versionen / Altdateien)
+└── 18_Verwaltung-SumUp/
 ```
+
+Ältere Fassungen einer Datei kommen in einen Unterordner `_Vorfassungen/` **innerhalb des
+jeweiligen Prozessordners** — er wird erst angelegt, wenn er gebraucht wird. Die Regeln zu
+Datei- und Ordnerbenennung stehen zentral in
+[Regeln für alle Mitarbeitenden, Abschnitt 5](../regeln.md);
+hier wird nichts davon wiederholt.
 
 ### Mitarbeiterinnen und Mitarbeiter
 

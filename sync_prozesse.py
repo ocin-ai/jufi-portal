@@ -28,8 +28,8 @@ MAPPING = {
 # oeffentliche Portal - sie liegen auf dem Schullaufwerk.
 MATERIAL = {
     "00_Firmenorga/_Vorlagen/2627_00_Regeln_Handout-A4_v1.pdf": "Regeln-Handout.pdf",
-    "1_Sekretariat-Personal/_Vorlagen/2627_08_Arbeitszeugnis-Infoblatt_v1.pdf": "Infoblatt-Arbeitszeugnis.pdf",
-    "1_Sekretariat-Personal/_Vorlagen/2627_10_Betriebsrat-Infoblatt_v1.pdf": "Infoblatt-Betriebsrat.pdf",
+    "1_Sekretariat-Personal/_Vorlagen/08_Arbeitszeugnis/2627_08_Arbeitszeugnis-Infoblatt_v1.pdf": "Infoblatt-Arbeitszeugnis.pdf",
+    "1_Sekretariat-Personal/_Vorlagen/10_Betriebsrat/2627_10_Betriebsrat-Infoblatt_v1.pdf": "Infoblatt-Betriebsrat.pdf",
 }
 
 # SPERRLISTE: diese Dateien werden NIEMALS veroeffentlicht (Regex, case-insensitive)
@@ -125,6 +125,7 @@ def main() -> int:
                 text,
             )
             # Verweis auf das zentrale Regelwerk -> Portalseite regeln.md
+            text = text.replace("../../00_Firmenorga/00_Regeln-Mitarbeitende.md", "../regeln.md")
             text = text.replace("../00_Regeln-Mitarbeitende.md", "../regeln.md")
             for pattern, label in CONTENT_WARN:
                 if re.search(pattern, text):

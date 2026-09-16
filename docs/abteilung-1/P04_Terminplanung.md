@@ -19,10 +19,10 @@ Das Sekretariat führt einen **Terminplan für das ganze Schuljahr** – die zen
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Terminplan-Vorlage, Variante A: Terminliste nach Phasen (Ferien/Feiertage vorbefüllt) | 2627_04_Terminplan_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/04_Terminplanung/` |
-| Terminplan-Vorlage, Variante B: Jahreskalender-Raster (Kalenderpedia BW 26/27, Termine direkt in die Tageszellen eintragen) | 2627_04_Terminplan-Jahreskalender_VORLAGE_v1 | `Ablage_1_Sekretariat-Personal/04_Terminplanung/` |
-| Terminplan (je Schuljahr, aus Vorlage) | z. B. 2627_04_Terminplan | `Ablage_1_Sekretariat-Personal/04_Terminplanung/` |
-| Checkliste | 2627_04_Terminplan-Checkliste | [tbd. – auffinden] |
+| Terminplan-Vorlage, Variante A: Terminliste nach Phasen (Ferien/Feiertage vorbefüllt) | 2627_04_Terminplan_VORLAGE_v1 | `1_Sekretariat-Personal/04_Terminplanung/` |
+| Terminplan-Vorlage, Variante B: Jahreskalender-Raster (Kalenderpedia BW 26/27, Termine direkt in die Tageszellen eintragen) | 2627_04_Terminplan-Jahreskalender_VORLAGE_v1 | `1_Sekretariat-Personal/04_Terminplanung/` |
+| Terminplan (je Schuljahr, aus Vorlage) | z. B. 2627_04_Terminplan | `1_Sekretariat-Personal/04_Terminplanung/` |
+| Checkliste | 2627_04_Terminplan-Checkliste | `1_Sekretariat-Personal/04_Terminplanung/` |
 
 ## Prozessschritte
 
