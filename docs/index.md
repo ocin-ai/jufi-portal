@@ -18,7 +18,7 @@
 
 | Wer | Auftrag | Prozess |
 | --- | --- | --- |
-| MA-04, MA-06 | Preiskalkulation fortsetzen, Einkaufspreise festlegen | [P14](abteilung-2-1/P14_Preiskalkulation.md) |
+| MA-04, MA-09 | Preiskalkulation fortsetzen, Einkaufspreise festlegen | [P14](abteilung-2-1/P14_Preiskalkulation.md) |
 | MA-04, MA-09 | Einkaufskonto Amazon (Anmeldung/Ummeldung) bzw. andere Online-Einkaufskonten mit Fachlehrer besprechen | [P10](abteilung-2-1/P10_Online-Bestellungen.md) |
 | MA-05, MA-08 | Einkaufsliste fertigstellen, Einkaufswünsche des Sekretariats berücksichtigen | [P01](abteilung-2-1/P01_Einkaufsliste-erstellen.md) |
 | MA-06, MA-07 | Preisschilder-Entwürfe fertigstellen, Entwurf für Preisaushang erstellen | [P09](abteilung-2-1/P09_Verwaltung-Preisaushang.md) |
