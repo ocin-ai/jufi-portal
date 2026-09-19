@@ -21,7 +21,7 @@ Erstellung qualifizierter Arbeitszeugnisse **auf Anfrage** (z. B. für Bewerbung
 | --- | --- | --- |
 | Zeugnis-Vorlage (WES, Musterformulierung „sehr gut", Platzhalter) | 2627_08_Arbeitszeugnis_VORLAGE_v1 | `1_Sekretariat-Personal/08_Arbeitszeugnis/` |
 | Zeugnis-Übersicht (Excel, nur MA-Nr.) | 2627_08_Zeugnis-Uebersicht | bei der Lehrkraft (vertraulich; Entscheidung 2026-07-18) |
-| Seriendruck-Datenquelle (Excel; ⚠ im Einsatz echte Daten) | 2627_08_Zeugnis-Seriendruck-Datenquelle_VORLAGE_v1 | bei der Lehrkraft (vertraulich; niemals auf dem SuS-Laufwerk) |
+| Seriendruck-Datenquelle (Excel) | 2627_08_Zeugnis-Seriendruck-Datenquelle_VORLAGE_v1 | vertraulich – nur bei der Lehrkraft, niemals auf dem SuS-Laufwerk |
 | Anleitung Serienbrief in Word (identisch für P07 Arbeitsvertrag) | 2627_00_Anleitung-Serienbrief_v1 | bei der Lehrkraft |
 | SuS-Infoblatt (WES; Arten, Aufbau, Zeugnissprache; Bildungsplan-Bezug BWL KB2 + Jufi KB4) | 2627_08_Arbeitszeugnis-Infoblatt_v1 | `1_Sekretariat-Personal/08_Arbeitszeugnis/` |
 | Vorjahres-Vorlage 25/26 | – | `1_Sekretariat-Personal/2526-Arbeitszeugnis-Vorlage.docx` (Lehrkraftbereich) |

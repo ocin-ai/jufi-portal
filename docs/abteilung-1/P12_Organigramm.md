@@ -19,9 +19,9 @@ Erstellung und Pflege des Jufi-Organigramms (Abteilungen 1–4 mit Unterbereiche
 
 | Datei | Dateiname | Dateipfad |
 | --- | --- | --- |
-| Organigramm (PowerPoint, WES-Design; Folie 1 intern mit Kürzeln, Folie 2 ohne Kürzel) | 2526_12_Organigramm_v2 | 1_Sekretariat-Personal/12_Organigramm/ |
-| Organigramm für Veröffentlichung/Portal (PNG, ohne Kürzel) | 2526_12_Organigramm_Portal_v2 | 1_Sekretariat-Personal/12_Organigramm/ |
-| Vorversion (PowerPoint) | 2526_12_Organigramm_v1 | 1_Sekretariat-Personal/12_Organigramm/ |
+| Organigramm (PowerPoint, WES-Design; Folie 1 intern mit Kürzeln, Folie 2 ohne Kürzel) | 2627_12_Organigramm_v3 | 1_Sekretariat-Personal/_Vorlagen/12_Organigramm/ |
+| Organigramm für Veröffentlichung/Portal (PNG, ohne Kürzel) | 2627_12_Organigramm_Portal_v3 | 1_Sekretariat-Personal/_Vorlagen/12_Organigramm/ |
+| Vorfassungen 25/26 (v1, v2, Portal_v2) | – | `99_Archiv/Organigramm/` (Lehrkraftbereich) |
 | Vorjahres-Vorlage (Word, Archiv) | – | `99_Archiv/Organigramm/2425_BK2J_Jufi_Organigramm_S_v1.docx` (Lehrkraftbereich) |
 
 ## Prozessschritte

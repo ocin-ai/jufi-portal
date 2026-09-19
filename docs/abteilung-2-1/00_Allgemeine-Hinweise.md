@@ -40,12 +40,6 @@ Datei- und Ordnerbenennung stehen zentral in
 [Regeln für alle Mitarbeitenden, Abschnitt 5](../regeln.md);
 hier wird nichts davon wiederholt.
 
-### Mitarbeiterinnen und Mitarbeiter
-
-| Vorname | Nachname | Kürzel | Mobil |
-| ------- | -------- | ------ | ----- |
-|         |          |        |       |
-
 ---
 
 ¹ Der Begriff Mitarbeiter bezeichnet sowohl Schülerinnen als auch Schüler.

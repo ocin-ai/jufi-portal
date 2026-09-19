@@ -23,7 +23,7 @@ Erstellung und Veröffentlichung des Schichtplans für den Kiosk (inklusive Paus
 | Schichtplan (je Phase, aus Vorlage) | 2627_02_Schichtplan_JJJJ-MM-TT | `1_Sekretariat-Personal/02_Schichtplaene/` |
 | Event-Schichtplan (Sonderveranstaltung) | 2627_02_Schichtplan-[Event]_JJJJ-MM-TT | `1_Sekretariat-Personal/02_Schichtplaene/` |
 | Checkliste | 2627_02_Schichtplan-Checkliste | `1_Sekretariat-Personal/02_Schichtplaene/` |
-| Vorjahres-Beispiele (⚠ enthalten echte Namen – nie veröffentlichen/weiterverwenden) | – | liegen im pbD-Bereich der Lehrkraft außerhalb dieses Projektordners, nicht im SuS-Laufwerk |
+| Vorjahres-Beispiele | – | vertraulich – nur bei der Lehrkraft, außerhalb dieses Projektordners, nicht im SuS-Laufwerk |
 
 ## Einteilungsregeln (Kiosk)
 
