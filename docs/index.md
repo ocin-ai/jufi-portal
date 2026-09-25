@@ -20,8 +20,8 @@
 | MA-04, MA-09 | Preiskalkulation fortsetzen, Einkaufspreise festlegen | [P14](abteilung-2-1/P14_Preiskalkulation.md) |
 | MA-04, MA-09 | Einkauf bei Böttcher AG durchführen | [P10](abteilung-2-1/P10_Online-Bestellungen.md) |
 | MA-04, MA-09 | Einkauf bei Amazon durchführen | [P10](abteilung-2-1/P10_Online-Bestellungen.md) |
-| MA-05, MA-06, MA-07, MA-08 | Inventur durchführen | [P07](abteilung-2-1/P07_Inventur.md) |
 | MA-05, MA-08 | Einkaufsplanung für die kommende Woche durchführen | [P01](abteilung-2-1/P01_Einkaufsliste-erstellen.md) |
+| MA-06, MA-07 | Inventur durchführen | [P07](abteilung-2-1/P07_Inventur.md) |
 | alle 2.1 | Fit im Kassensystem/SumUp werden (auch vorne an der Kasse) | [P18](abteilung-2-1/P18_Verwaltung-SumUp.md) |
 | alle 2.1 | Puffer bei freier Zeit: sich mit den Prozessen und Aufgaben vertraut machen | – |
 | alle 2.1 | Mit der eigenen Mappe vertraut machen (Ausdruck mit Regeln und Portal-Ablauf ansehen) | – |
