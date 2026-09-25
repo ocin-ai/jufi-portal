@@ -54,10 +54,10 @@ hier wird nichts davon wiederholt.
 
 ## Verantwortlichkeiten
 
-> Namen der Verantwortlichen werden schuljahresbezogen eingetragen (keine Klarnamen –
-> Kürzel/MA-Nummer, analog Abteilung 2.1). P13 und P14 sind stillgelegt, dafür keine Zeile.
+> Eingetragen werden Personalnummern (MA-Nr.), keine Namen oder Kürzel – analog
+> Abteilung 2.1. Die Verantwortlichen werden schuljahresbezogen festgelegt. P13 und P14 sind stillgelegt, dafür keine Zeile.
 
-| Nr. | Prozess | Datei | Name 1 | Name 2 | Name 3 |
+| Nr. | Prozess | Datei | MA-Nr. 1 | MA-Nr. 2 | MA-Nr. 3 |
 | --- | ------- | ----- | ------ | ------ | ------ |
 | 1 | E-Mail-Posteingang verwalten | [P01](P01_E-Mail-Posteingang.md) | | | |
 | 2 | Schichtpläne erstellen | [P02](P02_Schichtplaene.md) | | | |
