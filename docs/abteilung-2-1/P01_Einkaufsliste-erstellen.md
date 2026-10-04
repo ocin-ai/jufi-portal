@@ -1,6 +1,6 @@
 # Prozess 01: Einkaufsliste erstellen
 
-> Abteilung 2.1 Wareneinkauf / Lager · Status: überarbeitet · zuletzt bearbeitet: 2026-07-07
+> Abteilung 2.1 Wareneinkauf / Lager · Status: überarbeitet · zuletzt bearbeitet: 2026-09-28
 
 ## Steckbrief
 
@@ -34,7 +34,7 @@ Vollständige, informative Einkaufsliste für das Einkaufsteam. Die Liste muss s
 ### Bedarf erfassen
 
 - [ ] Artikel identifizieren, die eingekauft werden müssen (u. a. durch die Inventur).
-- [ ] Bedarfsliste der Kioskschicht berücksichtigen (roter Kühlschrank).
+- [ ] Bedarfsliste der Kioskschicht berücksichtigen (schwarzer Kühlschrank).
 - [ ] Bedarf für den Snackautomaten mit dem betreuenden Team abstimmen.
 - [ ] Ggf. Sonderaktionen mit der Projektgruppe abstimmen.
 
